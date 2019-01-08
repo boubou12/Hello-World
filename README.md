@@ -1,2 +1,4 @@
 # Hello-World
-first git-hub project to familiarize with the platform
+First git-hub project to familiarize with the platform
+
+Hello Everyone!!
